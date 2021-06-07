@@ -2,4 +2,11 @@
 
 This is a simple notebook showing how neural style transfer can be used in practice.
 A pre-trained Inception Network is used to extract the style and content of the images and generate new ones.
-To learn more about this visit https://arxiv.org/abs/1508.06576
+
+Neural Style Transfer arxiv paper: https://arxiv.org/abs/1508.06576
+
+Kaggle Notebook link: https://www.kaggle.com/ashishsingh226/neural-style-transfer
+
+Below is example of generated and original images:
+<img src="/art-style.jpg"><img src="/mona_lisa.jpg">
+<img src="/generated_image.png">
