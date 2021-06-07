@@ -8,5 +8,5 @@ Neural Style Transfer arxiv paper: https://arxiv.org/abs/1508.06576
 Kaggle Notebook link: https://www.kaggle.com/ashishsingh226/neural-style-transfer
 
 Below is example of generated and original images:
-<img src="/art-style.jpg"><img src="/mona_lisa.jpg">
+<img src="/art-style.jpg" width="250" height="250"><img src="/mona_lisa.jpg" width ="250" height ="250">
 <img src="/generated_image.png">
